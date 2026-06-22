@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 8c4ce66cf88e02d4094229dbb9bb9a16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3910823196746892733
+    second: sprites percentuais_0
+  - first:
+      213: 3795417962334590296
+    second: sprites percentuais_1
+  - first:
+      213: -8537460399493831908
+    second: sprites percentuais_2
+  - first:
+      213: -555221627282803208
+    second: sprites percentuais_3
+  - first:
+      213: 2892027042749612539
+    second: sprites percentuais_4
+  - first:
+      213: -6624345127116147756
+    second: sprites percentuais_5
+  - first:
+      213: -8258194555941674773
+    second: sprites percentuais_6
+  - first:
+      213: -1711079479927648260
+    second: sprites percentuais_7
+  - first:
+      213: -2010455506255546055
+    second: sprites percentuais_8
+  - first:
+      213: 6092330186471743226
+    second: sprites percentuais_9
+  - first:
+      213: -5601359132892602423
+    second: sprites percentuais_10
+  - first:
+      213: -2565169211755945626
+    second: sprites percentuais_11
+  - first:
+      213: 4930069626073139106
+    second: sprites percentuais_12
+  - first:
+      213: -5477588301913420632
+    second: sprites percentuais_13
+  - first:
+      213: 7937897756206946095
+    second: sprites percentuais_14
+  - first:
+      213: 2690946954650295063
+    second: sprites percentuais_15
+  - first:
+      213: 7157942797709931981
+    second: sprites percentuais_16
+  - first:
+      213: 3700408727186232877
+    second: sprites percentuais_17
+  - first:
+      213: -622480230353165741
+    second: sprites percentuais_18
+  - first:
+      213: -7523957753458552944
+    second: sprites percentuais_19
+  - first:
+      213: 6452162069065244917
+    second: sprites percentuais_20
+  - first:
+      213: -5139465738238222018
+    second: sprites percentuais_21
+  - first:
+      213: 1108491190985900425
+    second: sprites percentuais_22
+  - first:
+      213: 6162791169215178433
+    second: sprites percentuais_23
+  - first:
+      213: 6187533297374895364
+    second: sprites percentuais_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites percentuais_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 271
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a3b82e507f9b9c0800000000000000
+      internalID: -3910823196746892733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 271
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855171b17880ca430800000000000000
+      internalID: 3795417962334590296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 271
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a4340009d48980800000000000000
+      internalID: -8537460399493831908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 271
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5b1362fd47b48f0800000000000000
+      internalID: -555221627282803208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 271
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf10ae3d54b822820800000000000000
+      internalID: 2892027042749612539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 271
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3f6a444399114a0800000000000000
+      internalID: -6624345127116147756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 271
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0280f1ecff46d80800000000000000
+      internalID: -8258194555941674773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 271
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffc37857460148e0800000000000000
+      internalID: -1711079479927648260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 271
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939f8e07e5d6914e0800000000000000
+      internalID: -2010455506255546055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 271
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe990ba60e4c8450800000000000000
+      internalID: 6092330186471743226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_10
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 271
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfdb80cb89f342b0800000000000000
+      internalID: -5601359132892602423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 187
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661a4885130b66cd0800000000000000
+      internalID: -2565169211755945626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 186
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7480c44302b6440800000000000000
+      internalID: 4930069626073139106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 186
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac8d9ef572bbf3b0800000000000000
+      internalID: -5477588301913420632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 186
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d516d3f3192e60800000000000000
+      internalID: 7937897756206946095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 186
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b995d7ff9285520800000000000000
+      internalID: 2690946954650295063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 186
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5f014dc0f165360800000000000000
+      internalID: 7157942797709931981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 187
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26d0bbb12e7a5330800000000000000
+      internalID: 3700408727186232877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 187
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352a81e47818c57f0800000000000000
+      internalID: -622480230353165741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 187
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f8e007948859790800000000000000
+      internalID: -7523957753458552944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_20
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 187
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f022ef773faa8950800000000000000
+      internalID: 6452162069065244917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_21
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 187
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3125012423fca8b0800000000000000
+      internalID: -5139465738238222018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 91
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9814d5b7dd6226f00800000000000000
+      internalID: 1108491190985900425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 92
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c62cf1aae1a68550800000000000000
+      internalID: 6162791169215178433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites percentuais_24
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d9ee140c88ed550800000000000000
+      internalID: 6187533297374895364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprites percentuais_0: -3910823196746892733
+      sprites percentuais_1: 3795417962334590296
+      sprites percentuais_10: -5601359132892602423
+      sprites percentuais_11: -2565169211755945626
+      sprites percentuais_12: 4930069626073139106
+      sprites percentuais_13: -5477588301913420632
+      sprites percentuais_14: 7937897756206946095
+      sprites percentuais_15: 2690946954650295063
+      sprites percentuais_16: 7157942797709931981
+      sprites percentuais_17: 3700408727186232877
+      sprites percentuais_18: -622480230353165741
+      sprites percentuais_19: -7523957753458552944
+      sprites percentuais_2: -8537460399493831908
+      sprites percentuais_20: 6452162069065244917
+      sprites percentuais_21: -5139465738238222018
+      sprites percentuais_22: 1108491190985900425
+      sprites percentuais_23: 6162791169215178433
+      sprites percentuais_24: 6187533297374895364
+      sprites percentuais_3: -555221627282803208
+      sprites percentuais_4: 2892027042749612539
+      sprites percentuais_5: -6624345127116147756
+      sprites percentuais_6: -8258194555941674773
+      sprites percentuais_7: -1711079479927648260
+      sprites percentuais_8: -2010455506255546055
+      sprites percentuais_9: 6092330186471743226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
