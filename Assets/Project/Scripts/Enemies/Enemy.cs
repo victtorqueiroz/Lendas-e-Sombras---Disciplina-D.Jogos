@@ -34,6 +34,7 @@ public abstract class Enemy : MonoBehaviour
         }
     }
 
+    [ContextMenu("Matar Inimigo")]
     protected virtual void Die()
     {
         OnDied?.Invoke(this); // avisa quem tiver escutando q morreu
