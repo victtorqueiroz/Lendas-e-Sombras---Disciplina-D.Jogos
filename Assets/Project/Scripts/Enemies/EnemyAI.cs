@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
 {
-    // 1. Definindo os estados possíveis da nossa máquina
     public enum EnemyState
     {
         Idle,
@@ -11,64 +10,109 @@ public class EnemyAI : MonoBehaviour
         Ataca
     }
 
-    // O estado atual em que o inimigo se encontra
     public EnemyState currentState = EnemyState.Patrulha;
 
     [Header("Configurações de Movimento")]
-    public float patrolSpeed = 2f; // Velocidade andando de boa
-    public float chaseSpeed = 5f;  // Velocidade correndo atrás do Bento
+    public float patrolSpeed = 2f;
+    public float chaseSpeed = 5f;
 
-    // Referência para o nosso contrato de ataque
+    [Header("Detecção (Visão)")]
+    public float chaseRadius = 5f;   // Distância para começar a correr atrás
+    public float attackRadius = 1.5f; // Distância para dar o golpe
+    
+    // Referência do jogador que será preenchida automaticamente
+    private Transform playerTransform; 
     private IAttackStrategy attackStrategy;
+
+    void Start()
+    {
+        // Ao nascer, o inimigo procura na cena quem tem a Tag "Player" (que será o Bento)
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+        {
+            playerTransform = player.transform;
+        }
+    }
 
     void Update()
     {
-        // 2. A Máquina de Estados em ação! O Update roda todo frame e checa o estado atual.
+        // 1. Primeiro ele olha em volta e decide o que sentir
+        CheckStateTransitions();
+
+        // 2. Depois ele age baseado no que sentiu
         switch (currentState)
         {
             case EnemyState.Idle:
-                // Fica paradinho
                 break;
-                
             case EnemyState.Patrulha:
                 Patrol();
                 break;
-                
             case EnemyState.Persegue:
                 Chase();
                 break;
-                
             case EnemyState.Ataca:
                 AttackPlayer();
                 break;
         }
     }
 
-    // 3. Os métodos que vão rodar dentro de cada estado
+    private void CheckStateTransitions()
+    {
+        // Se o jogador não estiver na cena (ou já tiver morrido), continua patrulhando
+        if (playerTransform == null) return;
+
+        // Calcula a distância exata entre o inimigo e o Bento
+        float distanceToPlayer = Vector2.Distance(transform.position, playerTransform.position);
+
+        // A lógica de decisão:
+        if (distanceToPlayer <= attackRadius)
+        {
+            currentState = EnemyState.Ataca;
+        }
+        else if (distanceToPlayer <= chaseRadius)
+        {
+            currentState = EnemyState.Persegue;
+        }
+        else
+        {
+            currentState = EnemyState.Patrulha;
+        }
+    }
+
     private void Patrol()
     {
-        // Por enquanto, apenas avisa no console
-        // No futuro, colocaremos o código para andar de um lado pro outro aqui
+        // A lógica de andar de um lado pro outro entrará aqui (faremos nos prefabs)
     }
 
     private void Chase()
     {
-        // Vai correr na direção do jogador usando a chaseSpeed
+        // A lógica de mover na direção do playerTransform entrará aqui
     }
 
     private void AttackPlayer()
     {
-        // Se tiver uma estratégia de ataque equipada, ele usa!
-        if (attackStrategy != null)
+        if (attackStrategy != null && playerTransform != null)
         {
-            // O alvo (target) será preenchido na Fase 3 quando o inimigo detectar o Bento
-            // attackStrategy.Attack(alvo); 
+            // O inimigo ataca e passa o Bento como alvo!
+            // attackStrategy.Attack(playerTransform.gameObject); 
         }
     }
 
-    // Função que usaremos mais pra frente para "equipar" a estratégia certa (Rápida ou Pesada)
     public void SetAttackStrategy(IAttackStrategy strategy)
     {
         attackStrategy = strategy;
+    }
+
+    // --- O TRUQUE DE MESTRE ---
+    // Isso desenha os raios de visão do inimigo direto na tela do Unity!
+    private void OnDrawGizmosSelected()
+    {
+        // Círculo amarelo para o raio de Perseguição
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position, chaseRadius);
+
+        // Círculo vermelho para o raio de Ataque
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, attackRadius);
     }
 }
