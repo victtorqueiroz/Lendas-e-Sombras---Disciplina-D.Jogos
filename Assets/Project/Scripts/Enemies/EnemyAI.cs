@@ -24,9 +24,11 @@ public class EnemyAI : MonoBehaviour
     private Transform playerTransform; 
     private IAttackStrategy attackStrategy;
 
-    void Start()
+void Start()
     {
-        // Ao nascer, o inimigo procura na cena quem tem a Tag "Player" (que será o Bento)
+        // Pega o script Enemy que está "grudado" neste mesmo GameObject
+        meuCorpo = GetComponent<Enemy>();
+
         GameObject player = GameObject.FindGameObjectWithTag("Player");
         if (player != null)
         {
@@ -91,10 +93,10 @@ public class EnemyAI : MonoBehaviour
 
     private void AttackPlayer()
     {
-        if (attackStrategy != null && playerTransform != null)
+        // Se temos um corpo e o Bento está na mira, mandamos o corpo atacar!
+        if (meuCorpo != null && playerTransform != null)
         {
-            // O inimigo ataca e passa o Bento como alvo!
-            // attackStrategy.Attack(playerTransform.gameObject); 
+            meuCorpo.PerformAttack(playerTransform.gameObject);
         }
     }
 

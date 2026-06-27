@@ -46,4 +46,17 @@ public abstract class Enemy : MonoBehaviour
     {
         this.attackStrategy = strategy;
     }
+
+    // O Cérebro vai chamar este método quando for a hora de bater
+    public void PerformAttack(GameObject target)
+    {
+        if (attackStrategy != null)
+        {
+            attackStrategy.Attack(target);
+        }
+        else
+        {
+            Debug.LogWarning("Inimigo tentou atacar, mas está sem estratégia!");
+        }
+    }   
 }

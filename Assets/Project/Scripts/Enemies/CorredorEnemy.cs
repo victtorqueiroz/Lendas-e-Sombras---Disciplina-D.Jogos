@@ -9,5 +9,6 @@ public class CorredorEnemy : Enemy
         // ajusta a vida pro corredor (mais fraco)
         maxHealth = 50f;
         currentHealth = maxHealth;
+        SetAttackStrategy(new CorredorAttackStrategy());
     }
 }

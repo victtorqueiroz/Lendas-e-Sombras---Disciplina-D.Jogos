@@ -9,5 +9,6 @@ public class TanqueEnemy : Enemy
         // tanque aguenta mais porrada
         maxHealth = 200f;
         currentHealth = maxHealth;
+        SetAttackStrategy(new TanqueAttackStrategy());
     }
 }
