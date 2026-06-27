@@ -1,4 +1,7 @@
+using UnityEngine;
+
 public interface IAttackStrategy
 {
-    void Attack();
+    // Agora exigimos que todo ataque saiba quem é o alvo (target)
+    void Attack(GameObject target); 
 }
