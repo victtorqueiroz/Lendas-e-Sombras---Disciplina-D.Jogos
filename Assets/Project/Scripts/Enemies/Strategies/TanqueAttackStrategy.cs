@@ -1,4 +1,5 @@
 using UnityEngine;
+using Player; // Added namespace for PlayerController
 
 public class TanqueAttackStrategy : IAttackStrategy
 {
@@ -8,9 +9,10 @@ public class TanqueAttackStrategy : IAttackStrategy
     {
         Debug.Log("Tanque executou um ataque PESADO e LENTO!");
         
-        // Aqui vamos buscar o script de vida do Bento.
-        // Exemplo:
-        // PlayerHealth bentoHealth = target.GetComponent<PlayerHealth>();
-        // if (bentoHealth != null) bentoHealth.TakeDamage(damage);
+        PlayerController bentoHealth = target.GetComponent<PlayerController>();
+        if (bentoHealth != null)
+        {
+            bentoHealth.TakeDamage(damage);
+        }
     }
 }
