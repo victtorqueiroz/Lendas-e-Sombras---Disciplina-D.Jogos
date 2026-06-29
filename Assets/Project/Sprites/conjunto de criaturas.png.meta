@@ -1,0 +1,2597 @@
+fileFormatVersion: 2
+guid: 19496cb034b2ff2e4aca8386ceea8a41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3126836293527753181
+    second: conjunto de criaturas_0
+  - first:
+      213: 7827130079162053604
+    second: conjunto de criaturas_1
+  - first:
+      213: -7629178212238665207
+    second: conjunto de criaturas_2
+  - first:
+      213: -4346744046846771558
+    second: conjunto de criaturas_3
+  - first:
+      213: -8501136059813911794
+    second: conjunto de criaturas_4
+  - first:
+      213: 9020263914574714324
+    second: conjunto de criaturas_5
+  - first:
+      213: 5521191716238639942
+    second: conjunto de criaturas_6
+  - first:
+      213: 3447122699193406480
+    second: conjunto de criaturas_7
+  - first:
+      213: 4168394791083644828
+    second: conjunto de criaturas_8
+  - first:
+      213: 2752034516446719788
+    second: conjunto de criaturas_9
+  - first:
+      213: -8460369330864002025
+    second: conjunto de criaturas_10
+  - first:
+      213: -2420293631979649746
+    second: conjunto de criaturas_11
+  - first:
+      213: -8719031695538642827
+    second: conjunto de criaturas_12
+  - first:
+      213: 1012580094697403699
+    second: conjunto de criaturas_13
+  - first:
+      213: 2585457506434858242
+    second: conjunto de criaturas_14
+  - first:
+      213: -1843343491902748915
+    second: conjunto de criaturas_15
+  - first:
+      213: -181370468731108289
+    second: conjunto de criaturas_16
+  - first:
+      213: 78659784685008012
+    second: conjunto de criaturas_17
+  - first:
+      213: -559691556350817635
+    second: conjunto de criaturas_18
+  - first:
+      213: -2897006750030891155
+    second: conjunto de criaturas_19
+  - first:
+      213: 6746461114362955260
+    second: conjunto de criaturas_20
+  - first:
+      213: -1615764909280353567
+    second: conjunto de criaturas_21
+  - first:
+      213: 2698853833218142556
+    second: conjunto de criaturas_22
+  - first:
+      213: 3197779278597285649
+    second: conjunto de criaturas_23
+  - first:
+      213: 1584028602356568253
+    second: conjunto de criaturas_24
+  - first:
+      213: 622973180143252370
+    second: conjunto de criaturas_25
+  - first:
+      213: -2418410574749331849
+    second: conjunto de criaturas_26
+  - first:
+      213: -2458451593624426609
+    second: conjunto de criaturas_27
+  - first:
+      213: -4588683828610406675
+    second: conjunto de criaturas_28
+  - first:
+      213: 9009887919550259296
+    second: conjunto de criaturas_29
+  - first:
+      213: -6189976361958300092
+    second: conjunto de criaturas_30
+  - first:
+      213: -2839763218768092373
+    second: conjunto de criaturas_31
+  - first:
+      213: 4806551792990456876
+    second: conjunto de criaturas_32
+  - first:
+      213: -5071007871505956108
+    second: conjunto de criaturas_33
+  - first:
+      213: -600893438214447509
+    second: conjunto de criaturas_34
+  - first:
+      213: -8227187950174324743
+    second: conjunto de criaturas_35
+  - first:
+      213: -371749887991823449
+    second: conjunto de criaturas_36
+  - first:
+      213: 4646614657557601447
+    second: conjunto de criaturas_37
+  - first:
+      213: 2249966844026495740
+    second: conjunto de criaturas_38
+  - first:
+      213: -3058213207410905849
+    second: conjunto de criaturas_39
+  - first:
+      213: 3327389910031404393
+    second: conjunto de criaturas_40
+  - first:
+      213: -2134354629502220636
+    second: conjunto de criaturas_41
+  - first:
+      213: 5217775443029860229
+    second: conjunto de criaturas_42
+  - first:
+      213: 3542488838455807444
+    second: conjunto de criaturas_43
+  - first:
+      213: -2931356282905666801
+    second: conjunto de criaturas_44
+  - first:
+      213: 5299378756333945837
+    second: conjunto de criaturas_45
+  - first:
+      213: -2853608034606008829
+    second: conjunto de criaturas_46
+  - first:
+      213: 6802771767090337492
+    second: conjunto de criaturas_47
+  - first:
+      213: 4385702527073749429
+    second: conjunto de criaturas_48
+  - first:
+      213: -3480518908611858970
+    second: conjunto de criaturas_49
+  - first:
+      213: 3394637301913787449
+    second: conjunto de criaturas_50
+  - first:
+      213: -202217012687065842
+    second: conjunto de criaturas_51
+  - first:
+      213: 7942791106559306233
+    second: conjunto de criaturas_52
+  - first:
+      213: -2840976785015746086
+    second: conjunto de criaturas_53
+  - first:
+      213: 7169013451080071401
+    second: conjunto de criaturas_54
+  - first:
+      213: 3825456066220947751
+    second: conjunto de criaturas_55
+  - first:
+      213: 8898173340643334988
+    second: conjunto de criaturas_56
+  - first:
+      213: 8323990762618877174
+    second: conjunto de criaturas_57
+  - first:
+      213: -666910601916814818
+    second: conjunto de criaturas_58
+  - first:
+      213: -5026513647338222125
+    second: conjunto de criaturas_59
+  - first:
+      213: -1058287845023036353
+    second: conjunto de criaturas_60
+  - first:
+      213: 4974557120619218523
+    second: conjunto de criaturas_61
+  - first:
+      213: 5510230230946424953
+    second: conjunto de criaturas_62
+  - first:
+      213: -1951557057680114924
+    second: conjunto de criaturas_63
+  - first:
+      213: 5624934837977408552
+    second: conjunto de criaturas_64
+  - first:
+      213: -4459463677108060242
+    second: conjunto de criaturas_65
+  - first:
+      213: -8878207122524922260
+    second: conjunto de criaturas_66
+  - first:
+      213: -1711503665796209028
+    second: conjunto de criaturas_67
+  - first:
+      213: 1129884085329912147
+    second: conjunto de criaturas_68
+  - first:
+      213: 8003325211320919588
+    second: conjunto de criaturas_69
+  - first:
+      213: 8653522976478622210
+    second: conjunto de criaturas_70
+  - first:
+      213: -3935279764105629386
+    second: conjunto de criaturas_71
+  - first:
+      213: -6798613128928019996
+    second: conjunto de criaturas_72
+  - first:
+      213: 1492094080434690048
+    second: conjunto de criaturas_73
+  - first:
+      213: 2927975249961329546
+    second: conjunto de criaturas_74
+  - first:
+      213: 6048717048760225107
+    second: conjunto de criaturas_75
+  - first:
+      213: -4134390910981896170
+    second: conjunto de criaturas_76
+  - first:
+      213: -6261856465788716935
+    second: conjunto de criaturas_77
+  - first:
+      213: 2332384107386241621
+    second: conjunto de criaturas_78
+  - first:
+      213: -4040657043844542926
+    second: conjunto de criaturas_79
+  - first:
+      213: -537975778979670969
+    second: conjunto de criaturas_80
+  - first:
+      213: -8112808116625735947
+    second: conjunto de criaturas_81
+  - first:
+      213: 6718631870027400577
+    second: conjunto de criaturas_82
+  - first:
+      213: -2676266943308117382
+    second: conjunto de criaturas_83
+  - first:
+      213: 7560297301866418020
+    second: conjunto de criaturas_84
+  - first:
+      213: -6244437988784402945
+    second: conjunto de criaturas_85
+  - first:
+      213: 5522584738636342827
+    second: conjunto de criaturas_86
+  - first:
+      213: 2280453047804442152
+    second: conjunto de criaturas_87
+  - first:
+      213: -4926652676665178784
+    second: conjunto de criaturas_88
+  - first:
+      213: 1318440394699023768
+    second: conjunto de criaturas_89
+  - first:
+      213: -8991317205844255900
+    second: conjunto de criaturas_90
+  - first:
+      213: -1385816850766374792
+    second: conjunto de criaturas_91
+  - first:
+      213: -1520781610404795528
+    second: conjunto de criaturas_92
+  - first:
+      213: 6451319911888288644
+    second: conjunto de criaturas_93
+  - first:
+      213: -7139221014429838977
+    second: conjunto de criaturas_94
+  - first:
+      213: 7083884954695571111
+    second: conjunto de criaturas_95
+  - first:
+      213: -9013253641937246632
+    second: conjunto de criaturas_96
+  - first:
+      213: -4182278297454688743
+    second: conjunto de criaturas_97
+  - first:
+      213: -2682890118576662882
+    second: conjunto de criaturas_98
+  - first:
+      213: -4884270664324892485
+    second: conjunto de criaturas_99
+  - first:
+      213: -2042796115403447219
+    second: conjunto de criaturas_100
+  - first:
+      213: -3571130551994057654
+    second: conjunto de criaturas_101
+  - first:
+      213: -8427139367700605845
+    second: conjunto de criaturas_102
+  - first:
+      213: 104203391073478121
+    second: conjunto de criaturas_103
+  - first:
+      213: -2117559498615570297
+    second: conjunto de criaturas_104
+  - first:
+      213: -7309232766758800496
+    second: conjunto de criaturas_105
+  - first:
+      213: -7376809932313896376
+    second: conjunto de criaturas_106
+  - first:
+      213: -389175082691519141
+    second: conjunto de criaturas_107
+  - first:
+      213: -7360457760538618393
+    second: conjunto de criaturas_108
+  - first:
+      213: -6541570426455990870
+    second: conjunto de criaturas_109
+  - first:
+      213: 6738381513156487563
+    second: conjunto de criaturas_110
+  - first:
+      213: 1676680775973001564
+    second: conjunto de criaturas_111
+  - first:
+      213: 8464221101680997711
+    second: conjunto de criaturas_112
+  - first:
+      213: -5926026648192865783
+    second: conjunto de criaturas_113
+  - first:
+      213: -8457408849672584942
+    second: conjunto de criaturas_114
+  - first:
+      213: -3616983252248129897
+    second: conjunto de criaturas_115
+  - first:
+      213: -3775646020643783342
+    second: conjunto de criaturas_116
+  - first:
+      213: -7631815894827626938
+    second: conjunto de criaturas_117
+  - first:
+      213: 3178126739854151676
+    second: conjunto de criaturas_118
+  - first:
+      213: 3058054234377892850
+    second: conjunto de criaturas_119
+  - first:
+      213: 8264061917658969597
+    second: conjunto de criaturas_120
+  - first:
+      213: -8819887715119380289
+    second: conjunto de criaturas_121
+  - first:
+      213: 6724469478439615433
+    second: conjunto de criaturas_122
+  - first:
+      213: -3291387191644702191
+    second: conjunto de criaturas_123
+  - first:
+      213: -7705660632891476149
+    second: conjunto de criaturas_124
+  - first:
+      213: 5286756940257925441
+    second: conjunto de criaturas_125
+  - first:
+      213: -944428202688462641
+    second: conjunto de criaturas_126
+  - first:
+      213: 3139404054114640956
+    second: conjunto de criaturas_127
+  - first:
+      213: 182145103202295206
+    second: conjunto de criaturas_128
+  - first:
+      213: 3060255763270491697
+    second: conjunto de criaturas_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: conjunto de criaturas_0
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 12728
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd15582da01c46b20800000000000000
+      internalID: 3126836293527753181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_1
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 12736
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3ba3b465d8f9c60800000000000000
+      internalID: 7827130079162053604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_2
+      rect:
+        serializedVersion: 2
+        x: 7747
+        y: 11636
+        width: 1251
+        height: 1117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5d5b46d6bf1690800000000000000
+      internalID: -7629178212238665207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_3
+      rect:
+        serializedVersion: 2
+        x: 8911
+        y: 12715
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7726c1534da3c0800000000000000
+      internalID: -4346744046846771558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_4
+      rect:
+        serializedVersion: 2
+        x: 9123
+        y: 11649
+        width: 1229
+        height: 1105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0327876bc5e50a80800000000000000
+      internalID: -8501136059813911794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 12686
+        width: 168
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d510882d3a6e2d70800000000000000
+      internalID: 9020263914574714324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_6
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 12027
+        width: 511
+        height: 685
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643cb370d963f9c40800000000000000
+      internalID: 5521191716238639942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_7
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 11786
+        width: 1025
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014db9ec4d3a6df20800000000000000
+      internalID: 3447122699193406480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12037
+        width: 551
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9711263afc19d930800000000000000
+      internalID: 4168394791083644828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 12026
+        width: 532
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fab62dfc0313620800000000000000
+      internalID: 2752034516446719788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_10
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 12667
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ced352beab69a80800000000000000
+      internalID: -8460369330864002025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_11
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 12017
+        width: 499
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2586b5d3c3696ed0800000000000000
+      internalID: -2420293631979649746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_12
+      rect:
+        serializedVersion: 2
+        x: 6279
+        y: 11779
+        width: 984
+        height: 897
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5702c0a4ed6cff680800000000000000
+      internalID: -8719031695538642827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_13
+      rect:
+        serializedVersion: 2
+        x: 10417
+        y: 11637
+        width: 1369
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335f1133b386d0e00800000000000000
+      internalID: 1012580094697403699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_14
+      rect:
+        serializedVersion: 2
+        x: 11284
+        y: 12578
+        width: 138
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dbaec57e361e320800000000000000
+      internalID: 2585457506434858242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_15
+      rect:
+        serializedVersion: 2
+        x: 11838
+        y: 11669
+        width: 1385
+        height: 934
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07cb1e4cd02b66e0800000000000000
+      internalID: -1843343491902748915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_16
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 11994
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3449860584ab7df0800000000000000
+      internalID: -181370468731108289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_17
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 11314
+        width: 450
+        height: 822
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84324c48a4771100800000000000000
+      internalID: 78659784685008012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 11313
+        width: 441
+        height: 673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a8cefae739b38f0800000000000000
+      internalID: -559691556350817635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_19
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 11314
+        width: 448
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67ff78b5b3cbc7d0800000000000000
+      internalID: -2897006750030891155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_20
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 11320
+        width: 606
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50794a3ae30ad50800000000000000
+      internalID: 6746461114362955260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_28
+      rect:
+        serializedVersion: 2
+        x: 9006
+        y: 10202
+        width: 1222
+        height: 1245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6e819ae58b150c0800000000000000
+      internalID: -4588683828610406675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_30
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 10202
+        width: 1098
+        height: 1203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44629617b49c81aa0800000000000000
+      internalID: -6189976361958300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_32
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 10533
+        width: 925
+        height: 844
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c86b7b36d44b240800000000000000
+      internalID: 4806551792990456876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_33
+      rect:
+        serializedVersion: 2
+        x: 4067
+        y: 10490
+        width: 939
+        height: 866
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f28dad453920a9b0800000000000000
+      internalID: -5071007871505956108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_35
+      rect:
+        serializedVersion: 2
+        x: 5015
+        y: 10524
+        width: 939
+        height: 802
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f73c79162823dd80800000000000000
+      internalID: -8227187950174324743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_36
+      rect:
+        serializedVersion: 2
+        x: 5961
+        y: 10504
+        width: 929
+        height: 799
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3c4fc427747daf0800000000000000
+      internalID: -371749887991823449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_37
+      rect:
+        serializedVersion: 2
+        x: 10457
+        y: 10194
+        width: 1356
+        height: 1083
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac18d789671c7040800000000000000
+      internalID: 4646614657557601447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10554
+        width: 388
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d6ddc7a4b0f85d0800000000000000
+      internalID: -3058213207410905849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_40
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 10554
+        width: 566
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d04a07e734d2e20800000000000000
+      internalID: 3327389910031404393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_41
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 10543
+        width: 533
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a64fc3d5cf3162e0800000000000000
+      internalID: -2134354629502220636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_42
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 10550
+        width: 383
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f1d87de13496840800000000000000
+      internalID: 5217775443029860229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_43
+      rect:
+        serializedVersion: 2
+        x: 11744
+        y: 10193
+        width: 1464
+        height: 893
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc1f464d2792130800000000000000
+      internalID: 3542488838455807444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 9784
+        width: 401
+        height: 673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6d97921ec486e50800000000000000
+      internalID: 6802771767090337492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_48
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 9790
+        width: 558
+        height: 670
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b983c046352ddc30800000000000000
+      internalID: 4385702527073749429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_49
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 9817
+        width: 502
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede8224e76b2bfc0800000000000000
+      internalID: -3480518908611858970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_50
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 9782
+        width: 394
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c9cd9f3ac2c1f20800000000000000
+      internalID: 3394637301913787449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_55
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8926
+        width: 425
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72976fa2600c61530800000000000000
+      internalID: 3825456066220947751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_56
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 8929
+        width: 426
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b95ee3289ac7b70800000000000000
+      internalID: 8898173340643334988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_57
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 8932
+        width: 431
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4f7870f71c48370800000000000000
+      internalID: 8323990762618877174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_58
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 8936
+        width: 426
+        height: 737
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a6ecb4758aeb6f0800000000000000
+      internalID: -666910601916814818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_59
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 9550
+        width: 850
+        height: 717
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd80c7287c3e3ab0800000000000000
+      internalID: -5026513647338222125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_60
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 9525
+        width: 872
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cc94fdfc43051f0800000000000000
+      internalID: -1058287845023036353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_61
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 9525
+        width: 914
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b560669485d290540800000000000000
+      internalID: 4974557120619218523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_62
+      rect:
+        serializedVersion: 2
+        x: 6173
+        y: 9505
+        width: 799
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9782e2a5335487c40800000000000000
+      internalID: 5510230230946424953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_64
+      rect:
+        serializedVersion: 2
+        x: 7457
+        y: 8995
+        width: 1352
+        height: 933
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824ec56de68cf0e40800000000000000
+      internalID: 5624934837977408552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_65
+      rect:
+        serializedVersion: 2
+        x: 8871
+        y: 9016
+        width: 2008
+        height: 933
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7735b96dcc12c0800000000000000
+      internalID: -4459463677108060242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_66
+      rect:
+        serializedVersion: 2
+        x: 10507
+        y: 8972
+        width: 1171
+        height: 1052
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1f8b29a54ac480800000000000000
+      internalID: -8878207122524922260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_67
+      rect:
+        serializedVersion: 2
+        x: 11810
+        y: 9038
+        width: 1507
+        height: 772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c762070eb748f38e0800000000000000
+      internalID: -1711503665796209028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 8072
+        width: 361
+        height: 745
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20270bc7c4d771870800000000000000
+      internalID: 8653522976478622210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_71
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 8087
+        width: 361
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63173b097e31369c0800000000000000
+      internalID: -3935279764105629386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_72
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 8083
+        width: 366
+        height: 739
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e930fc316976a1a0800000000000000
+      internalID: -6798613128928019996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_73
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 8100
+        width: 362
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008d5c329abf4b410800000000000000
+      internalID: 1492094080434690048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_74
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 8418
+        width: 809
+        height: 727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83a41d0af142a820800000000000000
+      internalID: 2927975249961329546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_75
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 8406
+        width: 777
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dc33ebb1c51f350800000000000000
+      internalID: 6048717048760225107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_76
+      rect:
+        serializedVersion: 2
+        x: 4849
+        y: 8400
+        width: 769
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61802541f51bf96c0800000000000000
+      internalID: -4134390910981896170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_77
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 8408
+        width: 773
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9783e2a98ba6919a0800000000000000
+      internalID: -6261856465788716935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_78
+      rect:
+        serializedVersion: 2
+        x: 6639
+        y: 8369
+        width: 907
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5520688fcfa4e5020800000000000000
+      internalID: 2332384107386241621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_79
+      rect:
+        serializedVersion: 2
+        x: 7598
+        y: 7850
+        width: 1249
+        height: 847
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e4772b3d3bce7c0800000000000000
+      internalID: -4040657043844542926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7229
+        width: 362
+        height: 751
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1850a95c6106d3d50800000000000000
+      internalID: 6718631870027400577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_83
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 7242
+        width: 361
+        height: 741
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7acffff46dfbdad0800000000000000
+      internalID: -2676266943308117382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_84
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 7235
+        width: 361
+        height: 751
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f871207529be860800000000000000
+      internalID: 7560297301866418020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_85
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 7251
+        width: 366
+        height: 739
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd0d80dbbc4759a0800000000000000
+      internalID: -6244437988784402945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_86
+      rect:
+        serializedVersion: 2
+        x: 8778
+        y: 7823
+        width: 1369
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a9645f8924ac40800000000000000
+      internalID: 5522584738636342827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_87
+      rect:
+        serializedVersion: 2
+        x: 10511
+        y: 7823
+        width: 1616
+        height: 649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8263751f6fbc5af10800000000000000
+      internalID: 2280453047804442152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_88
+      rect:
+        serializedVersion: 2
+        x: 12188
+        y: 7828
+        width: 1325
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06505ab3e7301abb0800000000000000
+      internalID: -4926652676665178784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_89
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6394
+        width: 399
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895af87bd8a0c4210800000000000000
+      internalID: 1318440394699023768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_90
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 6397
+        width: 399
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b9bcaa3ac683380800000000000000
+      internalID: -8991317205844255900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_91
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 6399
+        width: 399
+        height: 751
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878d156aae694cce0800000000000000
+      internalID: -1385816850766374792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_92
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 6421
+        width: 399
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b20eace2915eae0800000000000000
+      internalID: -1520781610404795528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_93
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 5857
+        width: 1146
+        height: 1675
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b71808741b78950800000000000000
+      internalID: 6451319911888288644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_94
+      rect:
+        serializedVersion: 2
+        x: 4771
+        y: 5955
+        width: 1222
+        height: 1598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71d7e500546cec90800000000000000
+      internalID: -7139221014429838977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_95
+      rect:
+        serializedVersion: 2
+        x: 6291
+        y: 5931
+        width: 1050
+        height: 1489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a61d5295d30f4260800000000000000
+      internalID: 7083884954695571111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_96
+      rect:
+        serializedVersion: 2
+        x: 7466
+        y: 5864
+        width: 1165
+        height: 1670
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a5d1219d7ae280800000000000000
+      internalID: -9013253641937246632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_97
+      rect:
+        serializedVersion: 2
+        x: 5999
+        y: 6327
+        width: 6
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91643601c0095f5c0800000000000000
+      internalID: -4182278297454688743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_114
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 3770
+        width: 1281
+        height: 1802
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2114503e57f31aa80800000000000000
+      internalID: -8457408849672584942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_115
+      rect:
+        serializedVersion: 2
+        x: 7350
+        y: 3791
+        width: 1346
+        height: 1759
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e863b45e4edcdc0800000000000000
+      internalID: -3616983252248129897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_117
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 3791
+        width: 1229
+        height: 1714
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e8e95f0e7561690800000000000000
+      internalID: -7631815894827626938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_118
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 3791
+        width: 1234
+        height: 1677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff4d247e69fa1c20800000000000000
+      internalID: 3178126739854151676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_119
+      rect:
+        serializedVersion: 2
+        x: 6123
+        y: 2036
+        width: 1269
+        height: 1773
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f339f7bf14607a20800000000000000
+      internalID: 3058054234377892850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_121
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 2033
+        width: 1284
+        height: 1709
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84a755ad6799580800000000000000
+      internalID: -8819887715119380289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_122
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 2026
+        width: 1240
+        height: 1668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7955ec5d125d50800000000000000
+      internalID: 6724469478439615433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_123
+      rect:
+        serializedVersion: 2
+        x: 7654
+        y: 2036
+        width: 1227
+        height: 1595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a3fb7a9c4a252d0800000000000000
+      internalID: -3291387191644702191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_124
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 555
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47bac01b7eff0590800000000000000
+      internalID: -7705660632891476149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_125
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 433
+        width: 1301
+        height: 1442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14997ed3d655e5940800000000000000
+      internalID: 5286756940257925441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_126
+      rect:
+        serializedVersion: 2
+        x: 4957
+        y: 437
+        width: 1491
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0c4eead87b4e2f0800000000000000
+      internalID: -944428202688462641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_127
+      rect:
+        serializedVersion: 2
+        x: 6661
+        y: 404
+        width: 1396
+        height: 1477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34aceb9a57619b20800000000000000
+      internalID: 3139404054114640956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_130
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 11807
+        width: 995
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6326f58b07fedd96e94f1fe84ff07106
+      internalID: 893132604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto de criaturas_131
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 11813
+        width: 1016
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 7, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f9a132e625a35a3971e64a584cedc7
+      internalID: 558775294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7f6bfb1d7e91632bb89a2d90f6a277d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      conjunto de criaturas_0: 3126836293527753181
+      conjunto de criaturas_1: 7827130079162053604
+      conjunto de criaturas_10: -8460369330864002025
+      conjunto de criaturas_100: -2042796115403447219
+      conjunto de criaturas_101: -3571130551994057654
+      conjunto de criaturas_102: -8427139367700605845
+      conjunto de criaturas_103: 104203391073478121
+      conjunto de criaturas_104: -2117559498615570297
+      conjunto de criaturas_105: -7309232766758800496
+      conjunto de criaturas_106: -7376809932313896376
+      conjunto de criaturas_107: -389175082691519141
+      conjunto de criaturas_108: -7360457760538618393
+      conjunto de criaturas_109: -6541570426455990870
+      conjunto de criaturas_11: -2420293631979649746
+      conjunto de criaturas_110: 6738381513156487563
+      conjunto de criaturas_111: 1676680775973001564
+      conjunto de criaturas_112: 8464221101680997711
+      conjunto de criaturas_113: -5926026648192865783
+      conjunto de criaturas_114: -8457408849672584942
+      conjunto de criaturas_115: -3616983252248129897
+      conjunto de criaturas_116: -3775646020643783342
+      conjunto de criaturas_117: -7631815894827626938
+      conjunto de criaturas_118: 3178126739854151676
+      conjunto de criaturas_119: 3058054234377892850
+      conjunto de criaturas_12: -8719031695538642827
+      conjunto de criaturas_120: 8264061917658969597
+      conjunto de criaturas_121: -8819887715119380289
+      conjunto de criaturas_122: 6724469478439615433
+      conjunto de criaturas_123: -3291387191644702191
+      conjunto de criaturas_124: -7705660632891476149
+      conjunto de criaturas_125: 5286756940257925441
+      conjunto de criaturas_126: -944428202688462641
+      conjunto de criaturas_127: 3139404054114640956
+      conjunto de criaturas_128: 182145103202295206
+      conjunto de criaturas_129: 3060255763270491697
+      conjunto de criaturas_13: 1012580094697403699
+      conjunto de criaturas_130: 893132604
+      conjunto de criaturas_131: 558775294
+      conjunto de criaturas_14: 2585457506434858242
+      conjunto de criaturas_15: -1843343491902748915
+      conjunto de criaturas_16: -181370468731108289
+      conjunto de criaturas_17: 78659784685008012
+      conjunto de criaturas_18: -559691556350817635
+      conjunto de criaturas_19: -2897006750030891155
+      conjunto de criaturas_2: -7629178212238665207
+      conjunto de criaturas_20: 6746461114362955260
+      conjunto de criaturas_21: -1615764909280353567
+      conjunto de criaturas_22: 2698853833218142556
+      conjunto de criaturas_23: 3197779278597285649
+      conjunto de criaturas_24: 1584028602356568253
+      conjunto de criaturas_25: 622973180143252370
+      conjunto de criaturas_26: -2418410574749331849
+      conjunto de criaturas_27: -2458451593624426609
+      conjunto de criaturas_28: -4588683828610406675
+      conjunto de criaturas_29: 9009887919550259296
+      conjunto de criaturas_3: -4346744046846771558
+      conjunto de criaturas_30: -6189976361958300092
+      conjunto de criaturas_31: -2839763218768092373
+      conjunto de criaturas_32: 4806551792990456876
+      conjunto de criaturas_33: -5071007871505956108
+      conjunto de criaturas_34: -600893438214447509
+      conjunto de criaturas_35: -8227187950174324743
+      conjunto de criaturas_36: -371749887991823449
+      conjunto de criaturas_37: 4646614657557601447
+      conjunto de criaturas_38: 2249966844026495740
+      conjunto de criaturas_39: -3058213207410905849
+      conjunto de criaturas_4: -8501136059813911794
+      conjunto de criaturas_40: 3327389910031404393
+      conjunto de criaturas_41: -2134354629502220636
+      conjunto de criaturas_42: 5217775443029860229
+      conjunto de criaturas_43: 3542488838455807444
+      conjunto de criaturas_44: -2931356282905666801
+      conjunto de criaturas_45: 5299378756333945837
+      conjunto de criaturas_46: -2853608034606008829
+      conjunto de criaturas_47: 6802771767090337492
+      conjunto de criaturas_48: 4385702527073749429
+      conjunto de criaturas_49: -3480518908611858970
+      conjunto de criaturas_5: 9020263914574714324
+      conjunto de criaturas_50: 3394637301913787449
+      conjunto de criaturas_51: -202217012687065842
+      conjunto de criaturas_52: 7942791106559306233
+      conjunto de criaturas_53: -2840976785015746086
+      conjunto de criaturas_54: 7169013451080071401
+      conjunto de criaturas_55: 3825456066220947751
+      conjunto de criaturas_56: 8898173340643334988
+      conjunto de criaturas_57: 8323990762618877174
+      conjunto de criaturas_58: -666910601916814818
+      conjunto de criaturas_59: -5026513647338222125
+      conjunto de criaturas_6: 5521191716238639942
+      conjunto de criaturas_60: -1058287845023036353
+      conjunto de criaturas_61: 4974557120619218523
+      conjunto de criaturas_62: 5510230230946424953
+      conjunto de criaturas_63: -1951557057680114924
+      conjunto de criaturas_64: 5624934837977408552
+      conjunto de criaturas_65: -4459463677108060242
+      conjunto de criaturas_66: -8878207122524922260
+      conjunto de criaturas_67: -1711503665796209028
+      conjunto de criaturas_68: 1129884085329912147
+      conjunto de criaturas_69: 8003325211320919588
+      conjunto de criaturas_7: 3447122699193406480
+      conjunto de criaturas_70: 8653522976478622210
+      conjunto de criaturas_71: -3935279764105629386
+      conjunto de criaturas_72: -6798613128928019996
+      conjunto de criaturas_73: 1492094080434690048
+      conjunto de criaturas_74: 2927975249961329546
+      conjunto de criaturas_75: 6048717048760225107
+      conjunto de criaturas_76: -4134390910981896170
+      conjunto de criaturas_77: -6261856465788716935
+      conjunto de criaturas_78: 2332384107386241621
+      conjunto de criaturas_79: -4040657043844542926
+      conjunto de criaturas_8: 4168394791083644828
+      conjunto de criaturas_80: -537975778979670969
+      conjunto de criaturas_81: -8112808116625735947
+      conjunto de criaturas_82: 6718631870027400577
+      conjunto de criaturas_83: -2676266943308117382
+      conjunto de criaturas_84: 7560297301866418020
+      conjunto de criaturas_85: -6244437988784402945
+      conjunto de criaturas_86: 5522584738636342827
+      conjunto de criaturas_87: 2280453047804442152
+      conjunto de criaturas_88: -4926652676665178784
+      conjunto de criaturas_89: 1318440394699023768
+      conjunto de criaturas_9: 2752034516446719788
+      conjunto de criaturas_90: -8991317205844255900
+      conjunto de criaturas_91: -1385816850766374792
+      conjunto de criaturas_92: -1520781610404795528
+      conjunto de criaturas_93: 6451319911888288644
+      conjunto de criaturas_94: -7139221014429838977
+      conjunto de criaturas_95: 7083884954695571111
+      conjunto de criaturas_96: -9013253641937246632
+      conjunto de criaturas_97: -4182278297454688743
+      conjunto de criaturas_98: -2682890118576662882
+      conjunto de criaturas_99: -4884270664324892485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

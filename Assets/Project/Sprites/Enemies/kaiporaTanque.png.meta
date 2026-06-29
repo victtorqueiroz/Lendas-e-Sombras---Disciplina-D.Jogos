@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: ecb6fc9d8d5b5963ea8919bc9e32736b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 123042346934363724
+    second: kaiporaTanque_0
+  - first:
+      213: -750441354042981811
+    second: kaiporaTanque_1
+  - first:
+      213: 2960874627060114357
+    second: kaiporaTanque_2
+  - first:
+      213: 3634040722309118535
+    second: kaiporaTanque_3
+  - first:
+      213: 8668052072559311208
+    second: kaiporaTanque_4
+  - first:
+      213: -6581162839235886814
+    second: kaiporaTanque_5
+  - first:
+      213: 3572599472101270222
+    second: kaiporaTanque_6
+  - first:
+      213: -1586832246010677721
+    second: kaiporaTanque_7
+  - first:
+      213: -1023409298293328250
+    second: kaiporaTanque_8
+  - first:
+      213: -1763539818967652497
+    second: kaiporaTanque_9
+  - first:
+      213: -7855133553294561766
+    second: kaiporaTanque_10
+  - first:
+      213: -434000160663609535
+    second: kaiporaTanque_11
+  - first:
+      213: 2858916463634935925
+    second: kaiporaTanque_12
+  - first:
+      213: 7410782887288298031
+    second: kaiporaTanque_13
+  - first:
+      213: -2184991921855480459
+    second: kaiporaTanque_14
+  - first:
+      213: -4302411547917234517
+    second: kaiporaTanque_15
+  - first:
+      213: -5954322063299171558
+    second: kaiporaTanque_16
+  - first:
+      213: -1647663550901873297
+    second: kaiporaTanque_17
+  - first:
+      213: -2951361192836946286
+    second: kaiporaTanque_18
+  - first:
+      213: -8162429621713165180
+    second: kaiporaTanque_19
+  - first:
+      213: -7676663715583841921
+    second: kaiporaTanque_20
+  - first:
+      213: -2468633535336920591
+    second: kaiporaTanque_21
+  - first:
+      213: -3557179640122954953
+    second: kaiporaTanque_22
+  - first:
+      213: 7093273191332757345
+    second: kaiporaTanque_23
+  - first:
+      213: 3755228572264139606
+    second: kaiporaTanque_24
+  - first:
+      213: -2443142048587290547
+    second: kaiporaTanque_25
+  - first:
+      213: -7682854085354246719
+    second: kaiporaTanque_26
+  - first:
+      213: -8939331282614165949
+    second: kaiporaTanque_27
+  - first:
+      213: 7259416649329301764
+    second: kaiporaTanque_28
+  - first:
+      213: -4276441023241217352
+    second: kaiporaTanque_29
+  - first:
+      213: 7740830596117466306
+    second: kaiporaTanque_30
+  - first:
+      213: -1256220267245599581
+    second: kaiporaTanque_31
+  - first:
+      213: -2722127664601858956
+    second: kaiporaTanque_32
+  - first:
+      213: -4597589845160071109
+    second: kaiporaTanque_33
+  - first:
+      213: -8986580738859895876
+    second: kaiporaTanque_34
+  - first:
+      213: 4283465163980607766
+    second: kaiporaTanque_35
+  - first:
+      213: 5386413278408974612
+    second: kaiporaTanque_36
+  - first:
+      213: 6600017019519884467
+    second: kaiporaTanque_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaiporaTanque_0
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2583
+        width: 637
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 6, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466a55dc5225b100800000000000000
+      internalID: 123042346934363724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2602
+        width: 648
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686f46b5aae1cc1f0800000000000000
+      internalID: -1023409298293328250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_9
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 2596
+        width: 623
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f672d27d0e5a687e0800000000000000
+      internalID: -1763539818967652497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_13
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2590
+        width: 636
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2adc50a5c368d660800000000000000
+      internalID: 7410782887288298031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1724
+        width: 586
+        height: 581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296a411d1a8aa07d0800000000000000
+      internalID: -2951361192836946286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1702
+        width: 594
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48429a5618939be80800000000000000
+      internalID: -8162429621713165180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_20
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1731
+        width: 593
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79ae7cf503077590800000000000000
+      internalID: -7676663715583841921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_21
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1725
+        width: 587
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f940a501e6adbdd0800000000000000
+      internalID: -2468633535336920591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1055
+        width: 539
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ede32af8d11f380800000000000000
+      internalID: -8939331282614165949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_28
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1049
+        width: 551
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40954d30bf0aeb460800000000000000
+      internalID: 7259416649329301764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_29
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1056
+        width: 578
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba9cc20c8707a4c0800000000000000
+      internalID: -4276441023241217352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_30
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1049
+        width: 507
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc8e0c1a64fc6b60800000000000000
+      internalID: 7740830596117466306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 291
+        width: 511
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb373e25e60494380800000000000000
+      internalID: -8986580738859895876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_35
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 290
+        width: 492
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61113d23fdce17b30800000000000000
+      internalID: 4283465163980607766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_36
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 291
+        width: 488
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411a309965260ca40800000000000000
+      internalID: 5386413278408974612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_37
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 303
+        width: 488
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcd308c288f79b50800000000000000
+      internalID: 6600017019519884467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiporaTanque_38
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 285
+        width: 573
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feda9142843fbe258621d330d49f6f5
+      internalID: 2029505811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3135d83f897b93472905376a0db73f4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":115.0,"y":135.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      kaiporaTanque_0: 123042346934363724
+      kaiporaTanque_1: -750441354042981811
+      kaiporaTanque_10: -7855133553294561766
+      kaiporaTanque_11: -434000160663609535
+      kaiporaTanque_12: 2858916463634935925
+      kaiporaTanque_13: 7410782887288298031
+      kaiporaTanque_14: -2184991921855480459
+      kaiporaTanque_15: -4302411547917234517
+      kaiporaTanque_16: -5954322063299171558
+      kaiporaTanque_17: -1647663550901873297
+      kaiporaTanque_18: -2951361192836946286
+      kaiporaTanque_19: -8162429621713165180
+      kaiporaTanque_2: 2960874627060114357
+      kaiporaTanque_20: -7676663715583841921
+      kaiporaTanque_21: -2468633535336920591
+      kaiporaTanque_22: -3557179640122954953
+      kaiporaTanque_23: 7093273191332757345
+      kaiporaTanque_24: 3755228572264139606
+      kaiporaTanque_25: -2443142048587290547
+      kaiporaTanque_26: -7682854085354246719
+      kaiporaTanque_27: -8939331282614165949
+      kaiporaTanque_28: 7259416649329301764
+      kaiporaTanque_29: -4276441023241217352
+      kaiporaTanque_3: 3634040722309118535
+      kaiporaTanque_30: 7740830596117466306
+      kaiporaTanque_31: -1256220267245599581
+      kaiporaTanque_32: -2722127664601858956
+      kaiporaTanque_33: -4597589845160071109
+      kaiporaTanque_34: -8986580738859895876
+      kaiporaTanque_35: 4283465163980607766
+      kaiporaTanque_36: 5386413278408974612
+      kaiporaTanque_37: 6600017019519884467
+      kaiporaTanque_38: 2029505811
+      kaiporaTanque_4: 8668052072559311208
+      kaiporaTanque_5: -6581162839235886814
+      kaiporaTanque_6: 3572599472101270222
+      kaiporaTanque_7: -1586832246010677721
+      kaiporaTanque_8: -1023409298293328250
+      kaiporaTanque_9: -1763539818967652497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
