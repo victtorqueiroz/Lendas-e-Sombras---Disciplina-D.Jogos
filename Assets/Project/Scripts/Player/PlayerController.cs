@@ -216,7 +216,19 @@ namespace Player
 
         public void DealDamage(float damage)
         {
-            // TODO: Raycast para atingir inimigos
+            // Cria um círculo de colisão na direção que o Bento está olhando
+            Vector2 attackPos = (Vector2)transform.position + (lastMoveDirection * 1.2f);
+            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPos, 1.5f);
+            
+            foreach (Collider2D hit in hitEnemies)
+            {
+                // Busca o script Enemy na colisão ou no pai da colisão
+                Enemy enemy = hit.GetComponentInParent<Enemy>();
+                if (enemy != null)
+                {
+                    enemy.TakeDamage(damage);
+                }
+            }
         }
 
         // ===== ANIMATION CALLBACKS =====
