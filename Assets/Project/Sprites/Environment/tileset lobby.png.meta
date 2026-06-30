@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: f178882df876c3f4190afb62df0390e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8949300111358103934
+    second: tileset lobby_0
+  - first:
+      213: 3791851427732591778
+    second: tileset lobby_1
+  - first:
+      213: 8755372080859712118
+    second: tileset lobby_2
+  - first:
+      213: 4844634766714359080
+    second: tileset lobby_3
+  - first:
+      213: -757663704761902744
+    second: tileset lobby_4
+  - first:
+      213: 7660016001973407015
+    second: tileset lobby_5
+  - first:
+      213: 3105175027251575883
+    second: tileset lobby_6
+  - first:
+      213: 5533606494901953962
+    second: tileset lobby_7
+  - first:
+      213: 1936639810989452881
+    second: tileset lobby_8
+  - first:
+      213: -7014289289127673301
+    second: tileset lobby_9
+  - first:
+      213: 1278387873254934316
+    second: tileset lobby_10
+  - first:
+      213: 7108402564115333547
+    second: tileset lobby_11
+  - first:
+      213: 2248892846359395683
+    second: tileset lobby_12
+  - first:
+      213: -4455244961833588233
+    second: tileset lobby_13
+  - first:
+      213: 6916474862932110505
+    second: tileset lobby_14
+  - first:
+      213: -3533579153746812326
+    second: tileset lobby_15
+  - first:
+      213: -8898475973087664615
+    second: tileset lobby_16
+  - first:
+      213: -162142014192562018
+    second: tileset lobby_17
+  - first:
+      213: 5864790941765802754
+    second: tileset lobby_18
+  - first:
+      213: -5574512523798560120
+    second: tileset lobby_19
+  - first:
+      213: -5432816796613243922
+    second: tileset lobby_20
+  - first:
+      213: 4086993375162408509
+    second: tileset lobby_21
+  - first:
+      213: 5322873605973476003
+    second: tileset lobby_22
+  - first:
+      213: -3167773545352089052
+    second: tileset lobby_23
+  - first:
+      213: -2719643544322147955
+    second: tileset lobby_24
+  - first:
+      213: -4812322799681495876
+    second: tileset lobby_25
+  - first:
+      213: 7123250925363509930
+    second: tileset lobby_26
+  - first:
+      213: -5836661829958330232
+    second: tileset lobby_27
+  - first:
+      213: -7373093936052125028
+    second: tileset lobby_28
+  - first:
+      213: -6148094354929801659
+    second: tileset lobby_29
+  - first:
+      213: 6584767993968546458
+    second: tileset lobby_30
+  - first:
+      213: -4548418772191224612
+    second: tileset lobby_31
+  - first:
+      213: 2518589849324604151
+    second: tileset lobby_32
+  - first:
+      213: 766801194967107801
+    second: tileset lobby_33
+  - first:
+      213: 1202753020902001351
+    second: tileset lobby_34
+  - first:
+      213: -6106108340772715978
+    second: tileset lobby_35
+  - first:
+      213: -3372776911272442601
+    second: tileset lobby_36
+  - first:
+      213: 1410849641705942469
+    second: tileset lobby_37
+  - first:
+      213: 3263501943139368950
+    second: tileset lobby_38
+  - first:
+      213: 6811906571129875704
+    second: tileset lobby_39
+  - first:
+      213: -3123736285103844904
+    second: tileset lobby_40
+  - first:
+      213: 5197537820596168403
+    second: tileset lobby_41
+  - first:
+      213: 3977695012617621726
+    second: tileset lobby_42
+  - first:
+      213: 3216851928298669192
+    second: tileset lobby_43
+  - first:
+      213: -4750852916764174758
+    second: tileset lobby_44
+  - first:
+      213: 2359892872336178728
+    second: tileset lobby_45
+  - first:
+      213: -626405722969649769
+    second: tileset lobby_46
+  - first:
+      213: -2454762958333626947
+    second: tileset lobby_47
+  - first:
+      213: 1887311574243290919
+    second: tileset lobby_48
+  - first:
+      213: -3437363905921827384
+    second: tileset lobby_49
+  - first:
+      213: -173236840702559567
+    second: tileset lobby_50
+  - first:
+      213: 1973853812076987372
+    second: tileset lobby_51
+  - first:
+      213: 8150472041919501050
+    second: tileset lobby_52
+  - first:
+      213: -7932988030374027973
+    second: tileset lobby_53
+  - first:
+      213: 51968844819017980
+    second: tileset lobby_54
+  - first:
+      213: -7871166749960422116
+    second: tileset lobby_55
+  - first:
+      213: -6040209252660658790
+    second: tileset lobby_56
+  - first:
+      213: 2442541078195551384
+    second: tileset lobby_57
+  - first:
+      213: -3934106200830256959
+    second: tileset lobby_58
+  - first:
+      213: 1109496871156782079
+    second: tileset lobby_59
+  - first:
+      213: 7420679143236624716
+    second: tileset lobby_60
+  - first:
+      213: 8715103638502681341
+    second: tileset lobby_61
+  - first:
+      213: -2229538820613390627
+    second: tileset lobby_62
+  - first:
+      213: -5213026032229963436
+    second: tileset lobby_63
+  - first:
+      213: 1282161999288718807
+    second: tileset lobby_64
+  - first:
+      213: -3655752286324906681
+    second: tileset lobby_65
+  - first:
+      213: -3818070163607963817
+    second: tileset lobby_66
+  - first:
+      213: -934516056206626251
+    second: tileset lobby_67
+  - first:
+      213: 2432095915147283686
+    second: tileset lobby_68
+  - first:
+      213: 7833170628988225689
+    second: tileset lobby_69
+  - first:
+      213: -917228298983080343
+    second: tileset lobby_70
+  - first:
+      213: 2622453865337904555
+    second: tileset lobby_71
+  - first:
+      213: 7333755179795658376
+    second: tileset lobby_72
+  - first:
+      213: -2267634067824544528
+    second: tileset lobby_73
+  - first:
+      213: 1185191419601717186
+    second: tileset lobby_74
+  - first:
+      213: -1056412965163643980
+    second: tileset lobby_75
+  - first:
+      213: 512267840553436210
+    second: tileset lobby_76
+  - first:
+      213: -2157121882365459197
+    second: tileset lobby_77
+  - first:
+      213: 2699637804193457129
+    second: tileset lobby_78
+  - first:
+      213: 8615781507237424604
+    second: tileset lobby_79
+  - first:
+      213: 3244819405699410576
+    second: tileset lobby_80
+  - first:
+      213: -1326572244957791330
+    second: tileset lobby_81
+  - first:
+      213: -5470215617268779891
+    second: tileset lobby_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset lobby_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e711ddd290d423c70800000000000000
+      internalID: 8949300111358103934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 377
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a41f0f88cc5f9430800000000000000
+      internalID: 3791851427732591778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 385
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a04040584518970800000000000000
+      internalID: 8755372080859712118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 385
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d448007a99b3340800000000000000
+      internalID: 4844634766714359080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 309
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d572ffdc3c75f0800000000000000
+      internalID: -757663704761902744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 385
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dce6328f7dd4a60800000000000000
+      internalID: 7660016001973407015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 378
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c7eb04c3cc71b20800000000000000
+      internalID: 3105175027251575883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_7
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 385
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5ec6fe9c15bcc40800000000000000
+      internalID: 5533606494901953962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 310
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ee7e7b5a350ea10800000000000000
+      internalID: 1936639810989452881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_9
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 310
+        width: 140
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22c7b90e0d38ae90800000000000000
+      internalID: -7014289289127673301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 317
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27078e5ffebdb110800000000000000
+      internalID: 1278387873254934316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 317
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1029a587e16a260800000000000000
+      internalID: 7108402564115333547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 317
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d3b2de02ca53f10800000000000000
+      internalID: 2248892846359395683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 317
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f96f86ef4acb22c0800000000000000
+      internalID: -4455244961833588233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 317
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acacf62e314cff50800000000000000
+      internalID: 6916474862932110505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 317
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52223b3b7436fec0800000000000000
+      internalID: -3533579153746812326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 310
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916e2c5af33428480800000000000000
+      internalID: -8898475973087664615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 309
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90d2e872b4ffbdf0800000000000000
+      internalID: -162142014192562018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 196
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b11edd94ce36150800000000000000
+      internalID: 5864790941765802754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 193
+        width: 148
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8824507056a53a2b0800000000000000
+      internalID: -5574512523798560120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 237
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb871468e1ca94b0800000000000000
+      internalID: -5432816796613243922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 257
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e1ee522dae7b830800000000000000
+      internalID: 4086993375162408509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 237
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a20a54c755aed940800000000000000
+      internalID: 5322873605973476003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 163
+        width: 63
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b86c7ebec904d0800000000000000
+      internalID: -3167773545352089052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_24
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 230
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d897ef01b92e14ad0800000000000000
+      internalID: -2719643544322147955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_25
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 235
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc987419e1373db0800000000000000
+      internalID: -4812322799681495876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 168
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaab34cd9fedad260800000000000000
+      internalID: 7123250925363509930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 138
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88890475df2000fa0800000000000000
+      internalID: -5836661829958330232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 166
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92c60621228da990800000000000000
+      internalID: -7373093936052125028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 136
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54623d812c49daaa0800000000000000
+      internalID: -6148094354929801659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 164
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a925bd85a9bc16b50800000000000000
+      internalID: 6584767993968546458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_31
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 193
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcd2d9a935c0e0c0800000000000000
+      internalID: -4548418772191224612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_32
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 154
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac5e7bf14d3f220800000000000000
+      internalID: 2518589849324604151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_33
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 178
+        width: 118
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d80c57cf9934aa00800000000000000
+      internalID: 766801194967107801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 152
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4463008901b010800000000000000
+      internalID: 1202753020902001351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_35
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 154
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632413cc0deb24ba0800000000000000
+      internalID: -6106108340772715978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_36
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 157
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71587f8d44d7131d0800000000000000
+      internalID: -3372776911272442601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_37
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 181
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdae5d2648549310800000000000000
+      internalID: 1410849641705942469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_38
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 124
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff7e9cf9b94a4d20800000000000000
+      internalID: 3263501943139368950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_39
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 182
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc68577fe0c88e50800000000000000
+      internalID: 6811906571129875704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 69
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d11362266246a4d0800000000000000
+      internalID: -3123736285103844904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 69
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6ea4f2c1d512840800000000000000
+      internalID: 5197537820596168403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_42
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 70
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed09aeb0a8c933730800000000000000
+      internalID: 3977695012617621726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884c54109cd84ac20800000000000000
+      internalID: 3216851928298669192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 79
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56942c7174911eb0800000000000000
+      internalID: -4750852916764174758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 91
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ef29b601600c020800000000000000
+      internalID: 2359892872336178728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 94
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d4f15505f8e47f0800000000000000
+      internalID: -626405722969649769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_47
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 125
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5bcb4681eeeedd0800000000000000
+      internalID: -2454762958333626947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_48
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 47
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f214b90e3113a10800000000000000
+      internalID: 1887311574243290919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb7cf4db70c40d0800000000000000
+      internalID: -3437363905921827384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_50
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 94
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bab9efd20a889df0800000000000000
+      internalID: -173236840702559567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_51
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 85
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3466b8599846b10800000000000000
+      internalID: 1973853812076987372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_52
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 93
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25d5a932b4c1170800000000000000
+      internalID: 8150472041919501050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 93
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d512aca6d58e190800000000000000
+      internalID: -7932988030374027973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_54
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 11
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf033d69361a8b000800000000000000
+      internalID: 51968844819017980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_55
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 11
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d3ebc4b8ff3c290800000000000000
+      internalID: -7871166749960422116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_56
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 41
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d3226efaddc2ca0800000000000000
+      internalID: -6040209252660658790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_57
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c35236b26a5e120800000000000000
+      internalID: 2442541078195551384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_58
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 84
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8d9de014f3769c0800000000000000
+      internalID: -3934106200830256959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 49
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff315b4a689b56f00800000000000000
+      internalID: 1109496871156782079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_60
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41e4c44d5c8bf660800000000000000
+      internalID: 7420679143236624716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaaaa9a59442f870800000000000000
+      internalID: 8715103638502681341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_62
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 6
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde356851461f01e0800000000000000
+      internalID: -2229538820613390627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459a118817c97a7b0800000000000000
+      internalID: -5213026032229963436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5db109b872bc110800000000000000
+      internalID: 1282161999288718807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_65
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 47
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74528c22aa8244dc0800000000000000
+      internalID: -3655752286324906681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_66
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 48
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75731aa4a6d730bc0800000000000000
+      internalID: -3818070163607963817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_67
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 49
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b7e0299ee703f0800000000000000
+      internalID: -934516056206626251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_68
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 51
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec480a595a80c120800000000000000
+      internalID: 2432095915147283686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_69
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 49
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998cdd56f2305bc60800000000000000
+      internalID: 7833170628988225689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_70
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 51
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e7d25c8b95543f0800000000000000
+      internalID: -917228298983080343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_71
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badd05b65e3d46420800000000000000
+      internalID: 2622453865337904555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_72
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 48
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886b669ea7bb6c560800000000000000
+      internalID: 7333755179795658376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f47eba64deb780e0800000000000000
+      internalID: -2267634067824544528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_74
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 7
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c783341155a27010800000000000000
+      internalID: 1185191419601717186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_75
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 7
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbcd4b510ed651f0800000000000000
+      internalID: -1056412965163643980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_76
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2344b0a03e0fb1700800000000000000
+      internalID: 512267840553436210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_77
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 7
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3058260b31d5012e0800000000000000
+      internalID: -2157121882365459197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_78
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3aa25974a077520800000000000000
+      internalID: 2699637804193457129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_79
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 4
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd2449e1a7619770800000000000000
+      internalID: 8615781507237424604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_80
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ae105ce0ae70d20800000000000000
+      internalID: 3244819405699410576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_81
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 4
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bf56a5291179de0800000000000000
+      internalID: -1326572244957791330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lobby_82
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 7
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8476e7e0e3e514b0800000000000000
+      internalID: -5470215617268779891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tileset lobby_0: 8949300111358103934
+      tileset lobby_1: 3791851427732591778
+      tileset lobby_10: 1278387873254934316
+      tileset lobby_11: 7108402564115333547
+      tileset lobby_12: 2248892846359395683
+      tileset lobby_13: -4455244961833588233
+      tileset lobby_14: 6916474862932110505
+      tileset lobby_15: -3533579153746812326
+      tileset lobby_16: -8898475973087664615
+      tileset lobby_17: -162142014192562018
+      tileset lobby_18: 5864790941765802754
+      tileset lobby_19: -5574512523798560120
+      tileset lobby_2: 8755372080859712118
+      tileset lobby_20: -5432816796613243922
+      tileset lobby_21: 4086993375162408509
+      tileset lobby_22: 5322873605973476003
+      tileset lobby_23: -3167773545352089052
+      tileset lobby_24: -2719643544322147955
+      tileset lobby_25: -4812322799681495876
+      tileset lobby_26: 7123250925363509930
+      tileset lobby_27: -5836661829958330232
+      tileset lobby_28: -7373093936052125028
+      tileset lobby_29: -6148094354929801659
+      tileset lobby_3: 4844634766714359080
+      tileset lobby_30: 6584767993968546458
+      tileset lobby_31: -4548418772191224612
+      tileset lobby_32: 2518589849324604151
+      tileset lobby_33: 766801194967107801
+      tileset lobby_34: 1202753020902001351
+      tileset lobby_35: -6106108340772715978
+      tileset lobby_36: -3372776911272442601
+      tileset lobby_37: 1410849641705942469
+      tileset lobby_38: 3263501943139368950
+      tileset lobby_39: 6811906571129875704
+      tileset lobby_4: -757663704761902744
+      tileset lobby_40: -3123736285103844904
+      tileset lobby_41: 5197537820596168403
+      tileset lobby_42: 3977695012617621726
+      tileset lobby_43: 3216851928298669192
+      tileset lobby_44: -4750852916764174758
+      tileset lobby_45: 2359892872336178728
+      tileset lobby_46: -626405722969649769
+      tileset lobby_47: -2454762958333626947
+      tileset lobby_48: 1887311574243290919
+      tileset lobby_49: -3437363905921827384
+      tileset lobby_5: 7660016001973407015
+      tileset lobby_50: -173236840702559567
+      tileset lobby_51: 1973853812076987372
+      tileset lobby_52: 8150472041919501050
+      tileset lobby_53: -7932988030374027973
+      tileset lobby_54: 51968844819017980
+      tileset lobby_55: -7871166749960422116
+      tileset lobby_56: -6040209252660658790
+      tileset lobby_57: 2442541078195551384
+      tileset lobby_58: -3934106200830256959
+      tileset lobby_59: 1109496871156782079
+      tileset lobby_6: 3105175027251575883
+      tileset lobby_60: 7420679143236624716
+      tileset lobby_61: 8715103638502681341
+      tileset lobby_62: -2229538820613390627
+      tileset lobby_63: -5213026032229963436
+      tileset lobby_64: 1282161999288718807
+      tileset lobby_65: -3655752286324906681
+      tileset lobby_66: -3818070163607963817
+      tileset lobby_67: -934516056206626251
+      tileset lobby_68: 2432095915147283686
+      tileset lobby_69: 7833170628988225689
+      tileset lobby_7: 5533606494901953962
+      tileset lobby_70: -917228298983080343
+      tileset lobby_71: 2622453865337904555
+      tileset lobby_72: 7333755179795658376
+      tileset lobby_73: -2267634067824544528
+      tileset lobby_74: 1185191419601717186
+      tileset lobby_75: -1056412965163643980
+      tileset lobby_76: 512267840553436210
+      tileset lobby_77: -2157121882365459197
+      tileset lobby_78: 2699637804193457129
+      tileset lobby_79: 8615781507237424604
+      tileset lobby_8: 1936639810989452881
+      tileset lobby_80: 3244819405699410576
+      tileset lobby_81: -1326572244957791330
+      tileset lobby_82: -5470215617268779891
+      tileset lobby_9: -7014289289127673301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
