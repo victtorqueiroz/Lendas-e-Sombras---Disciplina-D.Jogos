@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.31, y: 1.4, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1170166598025774066}
@@ -80,7 +80,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 6, y: 6}
+  m_Size: {x: 3, y: 3}
   m_EdgeRadius: 0
 --- !u!50 &3035412500931775617
 Rigidbody2D:
@@ -136,9 +136,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
   currentState: 1
   patrolSpeed: 2
-  chaseSpeed: 5
-  chaseRadius: 5
-  attackRadius: 1.5
+  chaseSpeed: 2.5
+  chaseRadius: 2
+  attackRadius: 1.3
+  attackCooldown: 2
 --- !u!1 &8341037904016199129
 GameObject:
   m_ObjectHideFlags: 0
@@ -167,7 +168,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.18, y: -0.08, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5810283179793991170}
@@ -219,7 +220,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_MaskInteraction: 0
   m_Sprite: {fileID: -8939331282614165949, guid: ecb6fc9d8d5b5963ea8919bc9e32736b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -241,7 +242,7 @@ Animator:
   m_GameObject: {fileID: 8341037904016199129}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 03178b051f25fcc4586e23bdc8fccb0b, type: 2}
+  m_Controller: {fileID: 9100000, guid: 181dd8bfcef373c0780c172247c1a78f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

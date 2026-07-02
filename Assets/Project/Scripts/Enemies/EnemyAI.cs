@@ -20,10 +20,15 @@ public class EnemyAI : MonoBehaviour
     public float chaseRadius = 5f;   // Distância para começar a correr atrás
     public float attackRadius = 1.5f; // Distância para dar o golpe
     
+    [Header("Ataque")]
+    public float attackCooldown = 1.5f; // Tempo de espera entre cada golpe
+    private float lastAttackTime = -100f;
+
     // Referências
     private Transform playerTransform; 
     private Enemy meuCorpo; 
     private Animator meuAnimator; // Referência para o componente de animação
+    private Rigidbody2D rb; // Referência para a física (para não atravessar paredes)
 
     // Variáveis para patrulha
     private Vector2 startPosition;
@@ -37,6 +42,7 @@ public class EnemyAI : MonoBehaviour
     {
         // Pega o script Enemy que está "grudado" neste mesmo GameObject
         meuCorpo = GetComponent<Enemy>();
+        rb = GetComponent<Rigidbody2D>();
 
         // IMPORTANTÍSSIMO: Como o Animator está no Filho visual, precisamos buscar lá
         meuAnimator = GetComponentInChildren<Animator>();
@@ -71,6 +77,7 @@ public class EnemyAI : MonoBehaviour
         switch (currentState)
         {
             case EnemyState.Idle:
+                if (rb != null) rb.linearVelocity = Vector2.zero;
                 break;
             case EnemyState.Patrulha:
                 Patrol();
@@ -79,6 +86,7 @@ public class EnemyAI : MonoBehaviour
                 Chase();
                 break;
             case EnemyState.Ataca:
+                if (rb != null) rb.linearVelocity = Vector2.zero;
                 AttackPlayer();
                 break;
         }
@@ -139,7 +147,10 @@ public class EnemyAI : MonoBehaviour
         }
 
         Vector2 direction = (patrolTarget - (Vector2)transform.position).normalized;
-        transform.Translate(direction * patrolSpeed * Time.deltaTime);
+        if (rb != null)
+            rb.linearVelocity = direction * patrolSpeed;
+        else
+            transform.Translate(direction * patrolSpeed * Time.deltaTime);
     }
 
     private void Chase()
@@ -148,16 +159,24 @@ public class EnemyAI : MonoBehaviour
         if (playerTransform != null)
         {
             Vector2 direction = (playerTransform.position - transform.position).normalized;
-            transform.Translate(direction * chaseSpeed * Time.deltaTime);
+            if (rb != null)
+                rb.linearVelocity = direction * chaseSpeed;
+            else
+                transform.Translate(direction * chaseSpeed * Time.deltaTime);
         }
     }
 
     private void AttackPlayer()
     {
-        // Se temos um corpo e o Bento está na mira, mandamos o corpo atacar!
-        if (meuCorpo != null && playerTransform != null)
+        // Só ataca se já passou o tempo do cooldown
+        if (Time.time >= lastAttackTime + attackCooldown)
         {
-            meuCorpo.PerformAttack(playerTransform.gameObject);
+            // Se temos um corpo e o Bento está na mira, mandamos o corpo atacar!
+            if (meuCorpo != null && playerTransform != null)
+            {
+                meuCorpo.PerformAttack(playerTransform.gameObject);
+                lastAttackTime = Time.time; // Reseta o tempo
+            }
         }
     }
 
