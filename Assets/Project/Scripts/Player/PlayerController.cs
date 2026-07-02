@@ -12,7 +12,7 @@ namespace Player
         [Header("Stats")]
         [SerializeField] private int maxHearts = 5;
         [SerializeField] private float maxAdrenaline = 100f;
-        [SerializeField] private float moveSpeed = 10f;
+        [SerializeField] private float moveSpeed = 4f;
 
         private int currentHearts;
         private float currentAdrenaline;
@@ -180,6 +180,9 @@ namespace Player
                 OnHealthChanged?.Invoke(currentHearts, maxHearts);
                 OnDeath?.Invoke();
                 TransitionToState(deadState);
+                
+                // Retorna direto para o Lobby já que não há animação de morte
+                UnityEngine.SceneManagement.SceneManager.LoadScene("Lobby");
             }
         }
 
@@ -244,17 +247,17 @@ namespace Player
 
         public void PlayAttackAnimation(string attackType)
         {
-            animator.SetTrigger(attackType);
+            // O Animator usa 'isAttacking' (bool) configurado no AttackState, não triggers.
         }
 
         public void PlayHitAnimation()
         {
-            animator.SetTrigger("hit");
+            // O Animator não tem parâmetro 'hit', então ignoramos para não dar erro
         }
 
         public void PlayDeathAnimation()
         {
-            animator.SetTrigger("death");
+            animator.SetBool("isDead", true);
         }
 
         // ===== STATE GETTERS =====
