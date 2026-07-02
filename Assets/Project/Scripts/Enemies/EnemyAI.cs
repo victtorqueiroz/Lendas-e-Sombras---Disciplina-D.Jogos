@@ -20,6 +20,10 @@ public class EnemyAI : MonoBehaviour
     public float chaseRadius = 5f;   // Distância para começar a correr atrás
     public float attackRadius = 1.5f; // Distância para dar o golpe
     
+    [Header("Ataque")]
+    public float attackCooldown = 1.5f; // Tempo de espera entre cada golpe
+    private float lastAttackTime = -100f;
+
     // Referências
     private Transform playerTransform; 
     private Enemy meuCorpo; 
@@ -154,10 +158,15 @@ public class EnemyAI : MonoBehaviour
 
     private void AttackPlayer()
     {
-        // Se temos um corpo e o Bento está na mira, mandamos o corpo atacar!
-        if (meuCorpo != null && playerTransform != null)
+        // Só ataca se já passou o tempo do cooldown
+        if (Time.time >= lastAttackTime + attackCooldown)
         {
-            meuCorpo.PerformAttack(playerTransform.gameObject);
+            // Se temos um corpo e o Bento está na mira, mandamos o corpo atacar!
+            if (meuCorpo != null && playerTransform != null)
+            {
+                meuCorpo.PerformAttack(playerTransform.gameObject);
+                lastAttackTime = Time.time; // Reseta o tempo
+            }
         }
     }
 

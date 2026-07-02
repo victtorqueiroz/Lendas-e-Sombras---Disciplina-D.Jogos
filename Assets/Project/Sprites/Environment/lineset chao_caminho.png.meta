@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 1c6b10bb21341371d9cce8f11f289846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7748205470275332005
+    second: lineset chao_caminho_0
+  - first:
+      213: -242269112217568326
+    second: lineset chao_caminho_1
+  - first:
+      213: 7140354933112853202
+    second: lineset chao_caminho_2
+  - first:
+      213: -4166786872639700706
+    second: lineset chao_caminho_3
+  - first:
+      213: -8432715069051622746
+    second: lineset chao_caminho_4
+  - first:
+      213: -4142292080960703382
+    second: lineset chao_caminho_5
+  - first:
+      213: 6503227337967491022
+    second: lineset chao_caminho_6
+  - first:
+      213: -5398375522945517621
+    second: lineset chao_caminho_7
+  - first:
+      213: 3219172200728727056
+    second: lineset chao_caminho_8
+  - first:
+      213: 8382763236998993329
+    second: lineset chao_caminho_9
+  - first:
+      213: -5968448570983133806
+    second: lineset chao_caminho_10
+  - first:
+      213: 199253644638518061
+    second: lineset chao_caminho_11
+  - first:
+      213: 4107747500729685911
+    second: lineset chao_caminho_12
+  - first:
+      213: 5722343760970545832
+    second: lineset chao_caminho_13
+  - first:
+      213: -7422176473625013599
+    second: lineset chao_caminho_14
+  - first:
+      213: -5081705050246866169
+    second: lineset chao_caminho_15
+  - first:
+      213: -3201565228773488046
+    second: lineset chao_caminho_16
+  - first:
+      213: -8062229118836324823
+    second: lineset chao_caminho_17
+  - first:
+      213: 1421552289226925878
+    second: lineset chao_caminho_18
+  - first:
+      213: -6872068613577327812
+    second: lineset chao_caminho_19
+  - first:
+      213: -1017843234433313295
+    second: lineset chao_caminho_20
+  - first:
+      213: -7119738684792159088
+    second: lineset chao_caminho_21
+  - first:
+      213: -6265059273214523376
+    second: lineset chao_caminho_22
+  - first:
+      213: 1748884276000683502
+    second: lineset chao_caminho_23
+  - first:
+      213: -3541361424674839283
+    second: lineset chao_caminho_24
+  - first:
+      213: 1243696429919778212
+    second: lineset chao_caminho_25
+  - first:
+      213: 1844400307716065412
+    second: lineset chao_caminho_26
+  - first:
+      213: -4166371062967653259
+    second: lineset chao_caminho_27
+  - first:
+      213: -8957293186732732205
+    second: lineset chao_caminho_28
+  - first:
+      213: -5400615201411486305
+    second: lineset chao_caminho_29
+  - first:
+      213: -2795988260661694061
+    second: lineset chao_caminho_30
+  - first:
+      213: -8325422914192774628
+    second: lineset chao_caminho_31
+  - first:
+      213: -6970815353848704535
+    second: lineset chao_caminho_32
+  - first:
+      213: 3265059836781724289
+    second: lineset chao_caminho_33
+  - first:
+      213: -8789308037186010404
+    second: lineset chao_caminho_34
+  - first:
+      213: 7885096743357512070
+    second: lineset chao_caminho_35
+  - first:
+      213: -2926022582740001176
+    second: lineset chao_caminho_36
+  - first:
+      213: -3355874640941890001
+    second: lineset chao_caminho_37
+  - first:
+      213: 3829018255108673558
+    second: lineset chao_caminho_38
+  - first:
+      213: 1075469443761226689
+    second: lineset chao_caminho_39
+  - first:
+      213: -7975192721756111237
+    second: lineset chao_caminho_40
+  - first:
+      213: -2837315421617229985
+    second: lineset chao_caminho_41
+  - first:
+      213: 2672462639743787922
+    second: lineset chao_caminho_42
+  - first:
+      213: 4899332024516888703
+    second: lineset chao_caminho_43
+  - first:
+      213: 1829596202766217725
+    second: lineset chao_caminho_44
+  - first:
+      213: -3960788650766300214
+    second: lineset chao_caminho_45
+  - first:
+      213: -1710181678769645546
+    second: lineset chao_caminho_46
+  - first:
+      213: 1777987977895157989
+    second: lineset chao_caminho_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lineset chao_caminho_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 346
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5810813d28d87490800000000000000
+      internalID: -7748205470275332005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 346
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbf83aa68943acf0800000000000000
+      internalID: -242269112217568326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 346
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2566efaf2a71360800000000000000
+      internalID: 7140354933112853202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 346
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11cc897a699c26c0800000000000000
+      internalID: -4166786872639700706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 346
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa2819b25af8fa80800000000000000
+      internalID: -8432715069051622746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 281
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647c669c4f9386c0800000000000000
+      internalID: -4142292080960703382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 281
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7592deeca104a50800000000000000
+      internalID: 6503227337967491022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 281
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc73bae401e1515b0800000000000000
+      internalID: -5398375522945517621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 280
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e8f378f0cccac20800000000000000
+      internalID: 3219172200728727056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 281
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5578110ce855470800000000000000
+      internalID: 8382763236998993329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 214
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dcc5a95afcb2da0800000000000000
+      internalID: -5968448570983133806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 213
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b71e45224e3c200800000000000000
+      internalID: 199253644638518061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 214
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ddff8696a10930800000000000000
+      internalID: 4107747500729685911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 213
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa72531559d96f40800000000000000
+      internalID: 5722343760970545832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 213
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2d15552d12ff890800000000000000
+      internalID: -7422176473625013599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 148
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b1aba4e282a79b0800000000000000
+      internalID: -5081705050246866169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 148
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ac6b51361c193d0800000000000000
+      internalID: -3201565228773488046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 148
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92643f9f4553d1090800000000000000
+      internalID: -8062229118836324823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 148
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637a30d764e5ab310800000000000000
+      internalID: 1421552289226925878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 148
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bbc97710281a0a0800000000000000
+      internalID: -6872068613577327812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5519698f4efd1f0800000000000000
+      internalID: -1017843234433313295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0944b5f536b913d90800000000000000
+      internalID: -7119738684792159088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 73
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0180843e8c90e09a0800000000000000
+      internalID: -6265059273214523376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee57948abf8454810800000000000000
+      internalID: 1748884276000683502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 72
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d052cf41c8e8adec0800000000000000
+      internalID: -3541361424674839283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 72
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a53ac9405f724110800000000000000
+      internalID: 1243696429919778212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_26
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 68
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488890dce40a89910800000000000000
+      internalID: 1844400307716065412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 113
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ca855b7931e26c0800000000000000
+      internalID: -4166371062967653259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_28
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 68
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0d4cfed4d41b380800000000000000
+      internalID: -8957293186732732205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 113
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d2b4786192d05b0800000000000000
+      internalID: -5400615201411486305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_30
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 84
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391f81f9d77a239d0800000000000000
+      internalID: -2795988260661694061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_31
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 76
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a64a238f7267c80800000000000000
+      internalID: -8325422914192774628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_32
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 76
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1520f5e50b24f90800000000000000
+      internalID: -6970815353848704535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_33
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 80
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18205cd5f92df4d20800000000000000
+      internalID: 3265059836781724289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_34
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 78
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ca0e68ea160680800000000000000
+      internalID: -8789308037186010404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 79
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689f96706bd7d6d60800000000000000
+      internalID: 7885096743357512070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ed207b6fda467d0800000000000000
+      internalID: -2926022582740001176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26cae35bc98d61d0800000000000000
+      internalID: -3355874640941890001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6101d36e0d7632530800000000000000
+      internalID: 3829018255108673558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 10
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3cc22d2c5dcee00800000000000000
+      internalID: 1075469443761226689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 10
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e3274597c625190800000000000000
+      internalID: -7975192721756111237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_41
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 10
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f64c228a4df98d0800000000000000
+      internalID: -2837315421617229985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 15
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2936e6d8c9e761520800000000000000
+      internalID: 2672462639743787922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_43
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 34
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78460eb48cedf340800000000000000
+      internalID: 4899332024516888703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_44
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 15
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1b8448d08046910800000000000000
+      internalID: 1829596202766217725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_45
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 21
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb0da015b37809c0800000000000000
+      internalID: -3960788650766300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_46
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 23
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618dd87f2d63448e0800000000000000
+      internalID: -1710181678769645546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lineset chao_caminho_47
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 17
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e02b5d45aeaca810800000000000000
+      internalID: 1777987977895157989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lineset chao_caminho_0: -7748205470275332005
+      lineset chao_caminho_1: -242269112217568326
+      lineset chao_caminho_10: -5968448570983133806
+      lineset chao_caminho_11: 199253644638518061
+      lineset chao_caminho_12: 4107747500729685911
+      lineset chao_caminho_13: 5722343760970545832
+      lineset chao_caminho_14: -7422176473625013599
+      lineset chao_caminho_15: -5081705050246866169
+      lineset chao_caminho_16: -3201565228773488046
+      lineset chao_caminho_17: -8062229118836324823
+      lineset chao_caminho_18: 1421552289226925878
+      lineset chao_caminho_19: -6872068613577327812
+      lineset chao_caminho_2: 7140354933112853202
+      lineset chao_caminho_20: -1017843234433313295
+      lineset chao_caminho_21: -7119738684792159088
+      lineset chao_caminho_22: -6265059273214523376
+      lineset chao_caminho_23: 1748884276000683502
+      lineset chao_caminho_24: -3541361424674839283
+      lineset chao_caminho_25: 1243696429919778212
+      lineset chao_caminho_26: 1844400307716065412
+      lineset chao_caminho_27: -4166371062967653259
+      lineset chao_caminho_28: -8957293186732732205
+      lineset chao_caminho_29: -5400615201411486305
+      lineset chao_caminho_3: -4166786872639700706
+      lineset chao_caminho_30: -2795988260661694061
+      lineset chao_caminho_31: -8325422914192774628
+      lineset chao_caminho_32: -6970815353848704535
+      lineset chao_caminho_33: 3265059836781724289
+      lineset chao_caminho_34: -8789308037186010404
+      lineset chao_caminho_35: 7885096743357512070
+      lineset chao_caminho_36: -2926022582740001176
+      lineset chao_caminho_37: -3355874640941890001
+      lineset chao_caminho_38: 3829018255108673558
+      lineset chao_caminho_39: 1075469443761226689
+      lineset chao_caminho_4: -8432715069051622746
+      lineset chao_caminho_40: -7975192721756111237
+      lineset chao_caminho_41: -2837315421617229985
+      lineset chao_caminho_42: 2672462639743787922
+      lineset chao_caminho_43: 4899332024516888703
+      lineset chao_caminho_44: 1829596202766217725
+      lineset chao_caminho_45: -3960788650766300214
+      lineset chao_caminho_46: -1710181678769645546
+      lineset chao_caminho_47: 1777987977895157989
+      lineset chao_caminho_5: -4142292080960703382
+      lineset chao_caminho_6: 6503227337967491022
+      lineset chao_caminho_7: -5398375522945517621
+      lineset chao_caminho_8: 3219172200728727056
+      lineset chao_caminho_9: 8382763236998993329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

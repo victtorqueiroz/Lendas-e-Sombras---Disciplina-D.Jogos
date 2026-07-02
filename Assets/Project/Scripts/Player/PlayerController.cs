@@ -12,7 +12,7 @@ namespace Player
         [Header("Stats")]
         [SerializeField] private int maxHearts = 5;
         [SerializeField] private float maxAdrenaline = 100f;
-        [SerializeField] private float moveSpeed = 10f;
+        [SerializeField] private float moveSpeed = 4f;
 
         private int currentHearts;
         private float currentAdrenaline;
@@ -180,6 +180,9 @@ namespace Player
                 OnHealthChanged?.Invoke(currentHearts, maxHearts);
                 OnDeath?.Invoke();
                 TransitionToState(deadState);
+                
+                // Retorna direto para o Lobby já que não há animação de morte
+                UnityEngine.SceneManagement.SceneManager.LoadScene("Lobby");
             }
         }
 
@@ -216,7 +219,19 @@ namespace Player
 
         public void DealDamage(float damage)
         {
-            // TODO: Raycast para atingir inimigos
+            // Cria um círculo de colisão na direção que o Bento está olhando
+            Vector2 attackPos = (Vector2)transform.position + (lastMoveDirection * 1.2f);
+            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPos, 1.5f);
+            
+            foreach (Collider2D hit in hitEnemies)
+            {
+                // Busca o script Enemy na colisão ou no pai da colisão
+                Enemy enemy = hit.GetComponentInParent<Enemy>();
+                if (enemy != null)
+                {
+                    enemy.TakeDamage(damage);
+                }
+            }
         }
 
         // ===== ANIMATION CALLBACKS =====
@@ -232,17 +247,17 @@ namespace Player
 
         public void PlayAttackAnimation(string attackType)
         {
-            animator.SetTrigger(attackType);
+            // O Animator usa 'isAttacking' (bool) configurado no AttackState, não triggers.
         }
 
         public void PlayHitAnimation()
         {
-            animator.SetTrigger("hit");
+            // O Animator não tem parâmetro 'hit', então ignoramos para não dar erro
         }
 
         public void PlayDeathAnimation()
         {
-            animator.SetTrigger("death");
+            animator.SetBool("isDead", true);
         }
 
         // ===== STATE GETTERS =====

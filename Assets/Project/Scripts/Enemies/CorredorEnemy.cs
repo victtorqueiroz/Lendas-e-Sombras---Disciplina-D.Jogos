@@ -6,8 +6,8 @@ public class CorredorEnemy : Enemy
     {
         base.Start(); // chama o start do molde base
         
-        // ajusta a vida pro corredor (mais fraco)
-        maxHealth = 50f;
+        // Mula morre com 3 golpes (30 de vida)
+        maxHealth = 30f;
         currentHealth = maxHealth;
         SetAttackStrategy(new CorredorAttackStrategy());
     }

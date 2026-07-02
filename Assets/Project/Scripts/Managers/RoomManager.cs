@@ -19,8 +19,13 @@ public class RoomManager : MonoBehaviour
 
     public void StartRoom()
     {
-        // teste rapido: spawna 1 corredor no primeiro ponto
-        if (spawnPoints.Count > 0)
+        // Spawna os inimigos da Fase 1 (1 Mula e 1 Tanque)
+        if (spawnPoints.Count >= 2)
+        {
+            SpawnEnemy(EnemyType.Corredor, spawnPoints[0]);
+            SpawnEnemy(EnemyType.Tanque, spawnPoints[1]);
+        }
+        else if (spawnPoints.Count == 1)
         {
             SpawnEnemy(EnemyType.Corredor, spawnPoints[0]);
         }
